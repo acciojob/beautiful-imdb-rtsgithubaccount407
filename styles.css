@@ -1,2 +1,16 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. */ .moviePic {
+            height: 40%;
+            width: 60%;
+            opacity: 100%;
+            border: 2px solid black;
+            box-shadow: 12px 12px 32px black;
+        }
+        
+        .moviePic {
+            position: relative;
+            top: 50%;
+            width: 50%;
+            text-align: center;
+            font-size: 45px;
+        }
